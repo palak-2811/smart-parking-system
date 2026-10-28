@@ -1,0 +1,8 @@
+node_modules/
+dashboard/dist/
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+.vscode/
+# Lab report (contains personal details)
+report/
